@@ -1,0 +1,11 @@
+.credits{
+    background-color: rgb(200, 108, 3);
+    padding: 30px;
+    color: aliceblue;
+    font-size: 24px;
+}
+
+.credits:hover{
+    transform: rotate(15deg);
+    transition: ease-in-out 10ms;
+}
